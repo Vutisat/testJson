@@ -1,0 +1,9 @@
+{
+    "integrations": [{
+        "name": "merrill_email_action",
+        "label": "Merrill Email Action",
+        "url": "https://google.com",
+        "supported_action_types": ["dashboard"],
+        "supported_formats": ["assembled_pdf"]
+    }]
+}
